@@ -7,6 +7,7 @@ This project is a simple e-commerce website built with .NET 6. It includes the f
 * **User registration and login**
 * **Product addition to cart**
 * **Online payment using payment gateway**
+* **Admin & User Panel**
 * 
 **Admin panel**
 
