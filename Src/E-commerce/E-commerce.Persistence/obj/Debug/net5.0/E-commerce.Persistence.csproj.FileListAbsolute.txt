@@ -1,0 +1,66 @@
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.deps.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.AssemblyReference.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.AssemblyInfoInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.AssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\refint\E-commerce.Persistence.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\ref\E-commerce.Persistence.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.runtimeconfig.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.runtimeconfig.dev.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Application.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Domain.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Application.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Domain.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.CopyComplete
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.genruntimeconfig.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Common.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.deps.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.runtimeconfig.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.runtimeconfig.dev.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.AssemblyReference.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.AssemblyInfoInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.AssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.CoreCompileInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.CopyComplete
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.genruntimeconfig.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\ref\E-commerce.Persistence.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\refint\E-commerce.Persistence.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.deps.json
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.runtimeconfig.json
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.runtimeconfig.dev.json
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Persistence.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.AssemblyReference.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.AssemblyInfoInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.AssemblyInfo.cs
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.CoreCompileInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.csproj.CopyComplete
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\refint\E-commerce.Persistence.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\E-commerce.Persistence.genruntimeconfig.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Persistence\obj\Debug\net5.0\ref\E-commerce.Persistence.dll

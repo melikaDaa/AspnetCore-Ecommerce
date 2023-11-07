@@ -1,0 +1,36 @@
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.deps.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.csproj.AssemblyReference.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.AssemblyInfoInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.AssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.csproj.CoreCompileInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\refint\E-commerce.Common.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Common\obj\Debug\net5.0\ref\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.deps.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.csproj.AssemblyReference.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.AssemblyInfoInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.AssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.csproj.CoreCompileInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\ref\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Common\obj\Debug\net5.0\refint\E-commerce.Common.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.deps.json
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.csproj.AssemblyReference.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.AssemblyInfoInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.AssemblyInfo.cs
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.csproj.CoreCompileInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\ref\E-commerce.Common.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Common\obj\Debug\net5.0\refint\E-commerce.Common.dll

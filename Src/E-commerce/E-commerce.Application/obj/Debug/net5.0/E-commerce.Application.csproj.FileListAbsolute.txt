@@ -1,0 +1,51 @@
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.deps.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.AssemblyReference.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.AssemblyInfoInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.AssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\refint\E-commerce.Application.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\ref\E-commerce.Application.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Domain.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Domain.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.CopyComplete
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Common.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.deps.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.AssemblyReference.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.AssemblyInfoInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.AssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.CoreCompileInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.CopyComplete
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\ref\E-commerce.Application.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Application\obj\Debug\net5.0\refint\E-commerce.Application.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.deps.json
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\bin\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.AssemblyReference.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.AssemblyInfoInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.AssemblyInfo.cs
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.CoreCompileInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.csproj.CopyComplete
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\refint\E-commerce.Application.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Application\obj\Debug\net5.0\ref\E-commerce.Application.dll
