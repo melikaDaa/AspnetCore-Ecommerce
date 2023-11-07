@@ -1,4 +1,3 @@
-مطمئناً، در اینجا یک readme برای یک پروژه فروشگاه اینترنتی با .NET 6 است که شامل تمام موارد مورد نظر شما است، به علاوه توضیحات انگلیسی برای هر یک از بخش‌ها:
 
 
 # E-Commerce Website with .NET 6
@@ -8,8 +7,7 @@ This project is a simple e-commerce website built with .NET 6. It includes the f
 * **User registration and login**
 * **Product addition to cart**
 * **Online payment using payment gateway**
-* **Email sending to users for order confirmation**
-
+* 
 **Admin panel**
 
 The admin panel allows users to manage the following:
@@ -60,12 +58,6 @@ To use this project, follow these steps:
 4. Click the "Add to cart" button to add a product to your cart.
 5. Click the "Pay" button to pay for your order.
 
-**Features to be developed**
-
-* Adding product categories
-* Adding different features to products
-* Adding a review system
-* Adding a rating system
 
 **Documentation**
 
