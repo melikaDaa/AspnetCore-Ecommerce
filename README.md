@@ -1,6 +1,6 @@
 
 
-# E-Commerce Website with .NET 6
+# E-Commerce Website with .NET 5
 
 This project is a simple e-commerce website built with .NET 6. It includes the following features:
 
@@ -40,7 +40,7 @@ The project uses authentication and authorization to protect user data.
 **Requirements**
 
 * Visual Studio 2022
-* .NET 6
+* .NET 5
 
 **Installation**
 
@@ -58,11 +58,6 @@ To use this project, follow these steps:
 4. Click the "Add to cart" button to add a product to your cart.
 5. Click the "Pay" button to pay for your order.
 
-
-**Documentation**
-
-* Project usage guide: docs/usage.md
-* Project development guide: docs/development.md
 
 **Thanks**
 
@@ -100,4 +95,4 @@ The project is designed to be viewed on any device, regardless of screen size.
 
 The project uses authentication and authorization to protect user data.
 
-I hope this helps!
+
