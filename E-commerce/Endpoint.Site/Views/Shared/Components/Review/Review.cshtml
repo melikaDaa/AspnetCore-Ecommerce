@@ -1,0 +1,29 @@
+﻿@using E_commerce.Application.Services.Reviews;
+@model List<ReviewDto>
+@{
+    Layout = null;
+}
+
+
+            <table class="table table-profile">
+                <tbody>
+                    <tr>
+                        @foreach (var review in Model)
+                        {
+
+                            <td>
+                                <div class="title">متن نظر:</div>
+                                <div class="value"> @review.Comment</div>
+                            </td>
+
+                            <td>
+                                <div class="title">تاریخ نظر:</div>
+                                <div class="value"> @review.Date</div>
+                            </td>
+
+
+                        }
+                    </tr>
+                </tbody>
+            </table>
+

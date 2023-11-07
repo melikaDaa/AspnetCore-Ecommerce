@@ -1,0 +1,24 @@
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\bin\Debug\net5.0\E-commerce.Domain.deps.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\bin\Debug\net5.0\E-commerce.Domain.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\bin\Debug\net5.0\E-commerce.Domain.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.csproj.AssemblyReference.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.AssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\refint\E-commerce.Domain.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Domain\obj\Debug\net5.0\ref\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\bin\Debug\net5.0\E-commerce.Domain.deps.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\bin\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\bin\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.csproj.AssemblyReference.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.AssemblyInfoInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.AssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.csproj.CoreCompileInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\ref\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Domain\obj\Debug\net5.0\refint\E-commerce.Domain.dll

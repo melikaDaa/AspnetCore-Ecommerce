@@ -1,0 +1,24 @@
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.deps.json
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.AssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\refint\E-commerce.Infrastructure.dll
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.pdb
+C:\Users\europe stock\source\repos\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\ref\E-commerce.Infrastructure.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.deps.json
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.AssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\refint\E-commerce.Infrastructure.dll
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\ref\E-commerce.Infrastructure.dll

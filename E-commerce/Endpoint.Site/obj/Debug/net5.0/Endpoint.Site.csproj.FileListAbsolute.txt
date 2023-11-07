@@ -1,0 +1,363 @@
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\appsettings.json
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.exe
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.deps.json
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.runtimeconfig.json
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.runtimeconfig.dev.json
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.Views.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.Views.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.csproj.AssemblyReference.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.AssemblyInfoInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.AssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.csproj.CoreCompileInputs.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorAssemblyInfo.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorAssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\scopedcss\bundle\Endpoint.Site.styles.css
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\Endpoint.Site.StaticWebAssets.Manifest.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\Endpoint.Site.StaticWebAssets.Pack.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.Endpoint.Site.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.build.Endpoint.Site.props
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Endpoint.Site.props
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Endpoint.Site.props
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.TagHelpers.input.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.TagHelpers.output.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorCoreGenerate.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorTargetAssemblyInfo.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorTargetAssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.Views.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\refint\Endpoint.Site.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.genruntimeconfig.cache
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\ref\Endpoint.Site.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.csproj.CopyComplete
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Humanizer.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Adminlayout.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Application.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Domain.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Persistence.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Persistence.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Application.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Domain.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Common.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Common.pdb
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\create.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\Signup.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\Signin.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\AddNewCategory.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\AddNewProduct.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Detail.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Products\Detail.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\GetMenu\GetMenu.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\Search\Search.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\LazZiya.TagHelpers.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Cart.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Dto.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\Service.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\bin\Debug\net5.0\ZarinPal.dll
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\UserPanel.cshtml.g.cs
+C:\Users\europe stock\source\repos\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\Review\Review.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\appsettings.Development.json
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\appsettings.json
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.exe
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.deps.json
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.runtimeconfig.json
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.runtimeconfig.dev.json
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.Views.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.Views.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Humanizer.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\LazZiya.TagHelpers.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Dto.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Service.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ZarinPal.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Application.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Common.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Domain.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Persistence.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Persistence.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Application.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Common.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\E-commerce.Domain.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.csproj.AssemblyReference.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.AssemblyInfoInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.AssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.csproj.CoreCompileInputs.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorAssemblyInfo.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorAssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\scopedcss\bundle\Endpoint.Site.styles.css
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\Endpoint.Site.StaticWebAssets.Manifest.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.TagHelpers.input.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.TagHelpers.output.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorCoreGenerate.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\AddNewCategory.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\AddNewProduct.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Detail.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Adminlayout.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\create.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\Signin.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\Signup.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\UserPanel.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Products\Detail.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Cart.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\GetMenu\GetMenu.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\Review\Review.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\Search\Search.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorTargetAssemblyInfo.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.RazorTargetAssemblyInfo.cs
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.Views.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.csproj.CopyComplete
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.pdb
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\Endpoint.Site.genruntimeconfig.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\ref\Endpoint.Site.dll
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\bin\Debug\net5.0\Endpoint.Site.StaticWebAssets.xml
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\Endpoint.Site.StaticWebAssets.Pack.cache
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.Endpoint.Site.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.build.Endpoint.Site.props
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Endpoint.Site.props
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Endpoint.Site.props
+D:\New folder\Bugeto (online shop)\E-commerce\Endpoint.Site\obj\Debug\net5.0\refint\Endpoint.Site.dll
