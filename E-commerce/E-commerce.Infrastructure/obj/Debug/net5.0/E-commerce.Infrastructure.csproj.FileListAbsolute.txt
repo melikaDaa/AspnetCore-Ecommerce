@@ -22,3 +22,15 @@ D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debu
 D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\refint\E-commerce.Infrastructure.dll
 D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.pdb
 D:\New folder\Bugeto (online shop)\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\ref\E-commerce.Infrastructure.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.deps.json
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\ref\E-commerce.Infrastructure.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\bin\Debug\net5.0\E-commerce.Infrastructure.pdb
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.AssemblyInfo.cs
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\ref\E-commerce.Infrastructure.dll
+D:\New folder\git source\New folder\E-commerce\E-commerce.Infrastructure\obj\Debug\net5.0\E-commerce.Infrastructure.pdb

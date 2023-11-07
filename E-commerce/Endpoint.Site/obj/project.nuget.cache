@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zifKRqG69XA0r1yVyrcLkhwxBwk/0R3y2dwDRkVOQoNlxv3XSaQ+1JGF4U9wB+iqMhYFtCFec0Aik489IHcniw==",
+  "dgSpecHash": "/ulUiu0Y3AkmMsujwqdOmu9Cax5CwoBvK19V9FRQQmuMexPmero9Co1Gdaw5pVF7deCkURiF9kjlFVCtISdECQ==",
   "success": true,
   "projectFilePath": "D:\\New folder\\git source\\New folder\\E-commerce\\Endpoint.Site\\Endpoint.Site.csproj",
   "expectedPackageFiles": [
@@ -136,7 +136,8 @@
     "C:\\Users\\europe stock\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\europe stock\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\europe stock\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\europe stock\\.nuget\\packages\\zarinpal\\3.0.1\\zarinpal.3.0.1.nupkg.sha512"
+    "C:\\Users\\europe stock\\.nuget\\packages\\zarinpal\\3.0.1\\zarinpal.3.0.1.nupkg.sha512",
+    "C:\\Users\\europe stock\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.2\\microsoft.netcore.app.host.win-x64.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }
